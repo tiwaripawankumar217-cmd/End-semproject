@@ -1,0 +1,17 @@
+.write h1{
+  font-size:80px;
+}
+.write p{
+  font-size: 20px;
+}
+.write{
+  margin-left: 50px;
+}
+.container{
+  display:flex;
+  gap: 120px;
+  margin-top:40px;
+}
+.world{
+  margin-top:90px;
+}

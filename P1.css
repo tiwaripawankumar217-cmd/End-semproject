@@ -1,0 +1,72 @@
+.boxes{
+  border:2px solid black;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  border-radius: 20px;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  gap: 30px;
+  margin-top:150px;
+  margin-left:40px;
+  background-color:rgb(255, 255, 164);
+}
+.boxes:hover{
+  background-color: rgb(247, 66, 66);
+  cursor: pointer;
+}
+.box{
+  border: 2px solid black;
+  height: 100px;
+  width: 400px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding-left:10px;
+  gap: 2px;
+  justify-content: space-evenly;
+  background-color: white;
+}
+.box:hover{
+  background-color: rgb(169, 255, 150);
+  cursor: pointer;
+}
+.bo{
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+  border-radius: 20px;
+  background-color:rgb(255, 111, 250);
+}
+.bo img{
+  object-fit: contain;
+}
+.b1,.b2,.b3{
+  display: flex;
+  justify-content: center;
+}
+.details{
+  display: flex;
+  flex-direction: column;
+  line-height: 0px;
+}
+.container{
+  display: flex;
+  gap:125px;
+}
+h1{
+  font-size:85px;
+}
+.write p{
+  font-size: 30px;
+}
+.start{
+  margin-left:1000px;
+  padding: 30px;
+  border-radius: 30px;
+}
+button:hover{
+  background-color: rgb(247, 66, 66);
+  cursor: pointer;
+}

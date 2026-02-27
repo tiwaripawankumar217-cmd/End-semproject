@@ -1,0 +1,44 @@
+*{
+  font-family: sans-serif;
+}
+.page3{
+     height: 100%;
+     width: 100%;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+}
+
+.lefttt{
+    width: 500px;
+    height: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.righttt{
+    width: 500px;
+    height: 717px;
+    /* border: 1px solid black; */
+}
+
+
+.l{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+}
+
+.logoo{
+    width: 65px;
+    height: 70px;
+}
+
+.infoo{
+    width: 420px;
+    height: 120px;
+}
+
