@@ -1,0 +1,42 @@
+body{
+    background-color: #F3F3F5;
+}
+
+div{
+    /* border: 1px solid black; */
+    display: flex;
+    
+}
+.nax{
+    justify-content: space-between;
+    display: flex;
+    /* justify-content: space-between; */
+    height: 35px;
+    margin: auto;
+    background-color: black;
+}
+.about{
+ justify-content: space-between;
+    display: flex;
+}
+.mirai{
+    background-image: url("zzproject/images (13)-Photoroom 1.jpg");
+}
+.firstbox{
+    display: flex;
+    flex-direction: column;
+    width: 764px;
+    height: 314px; margin: auto; margin-top: 100px;
+
+}
+.con{
+    width: 442; height: 38px;
+}
+.photo{
+    width: 378px;
+    height: fit-content;
+    margin: auto;
+}
+.a{
+ transform: rotateZ(-5deg);
+}
